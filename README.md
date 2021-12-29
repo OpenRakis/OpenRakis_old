@@ -2,6 +2,8 @@
     <span style="display: inline-block; height: 100%; vertical-align: middle;"></span><img src="worm.gif" style="vertical-align: middle; max-height: 400px; max-width: 640px;" height="400" />
 </div>
 
+# ! Repo relocated at : https://github.com/OpenRakis/OpenRakis !
+
 # OpenRakis
 
 This is a WIP project aiming at reversing Cryo's DUNE game.
